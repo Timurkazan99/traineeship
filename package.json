@@ -1,0 +1,29 @@
+{
+  "name": "traineeship",
+  "version": "1.0.0",
+  "description": "Домашняя работа №2",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timurkazan99/traineeship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timurkazan99/traineeship/issues"
+  },
+  "homepage": "https://github.com/Timurkazan99/traineeship#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.17",
+    "@babel/preset-env": "^7.22.15",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
