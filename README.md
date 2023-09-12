@@ -69,6 +69,8 @@
 
 ### Задание №4
 Развернуть строку в обратном направлении при помощи методов массивов.
+
+[![Tests](https://github.com/Timurkazan99/traineeship/actions/workflows/tests.yml/badge.svg?branch=homeWork_02&event=push)](https://github.com/Timurkazan99/traineeship/actions/workflows/tests.yml)
 ```
 function reverseStr(str) {
    return str
@@ -80,6 +82,8 @@ function reverseStr(str) {
 
 ### Задание №5
 Написать функцию глубокого сравнения двух объектов.
+
+[![Tests](https://github.com/Timurkazan99/traineeship/actions/workflows/tests.yml/badge.svg?branch=homeWork_02&event=push)](https://github.com/Timurkazan99/traineeship/actions/workflows/tests.yml)
 ```
 function isObject(obj) { // Функция для определения является передаваемое значение объектом
   return typeof obj === 'object' && obj !== null;
