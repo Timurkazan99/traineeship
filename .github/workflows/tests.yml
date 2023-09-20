@@ -3,7 +3,7 @@ name: Tests
 on:
   push:
     branches:
-      - 'homeWork_02'
+      - 'homeWork_04'
 
 jobs:
   tests:
