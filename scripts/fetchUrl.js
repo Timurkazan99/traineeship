@@ -14,7 +14,7 @@ function fetchUrl(url) {
       }
     };
 
-    return fetchWithCatch(0);
+    fetchWithCatch(0);
   })
 }
 
